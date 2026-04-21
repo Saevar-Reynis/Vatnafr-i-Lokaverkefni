@@ -1,0 +1,17 @@
+Mat á grunnvatnsframlagi fyrir stöð 37 (Kljáfoss í Hvítá)
+
+Gögn:
+- Rennsli: 1993-10-01 til 2023-09-30 (10957 dagar)
+- Vatnasviðsflatarmál: 1720.0 km2
+
+Aðferð:
+- Baseflow separation með Lyne-Hollick/Ladson (alpha=0.925, passes=3, reflection=30)
+- Rýrnunargreining a þurrum og hallandi rennslisskeiðum (P <= 1 mm/d, 3 daga summa <= 2 mm, T > 0 C, qc <= 80, mín. 7 dagar, R2 >= 0.90)
+
+Helstu niðurstöður:
+- BFI fyrir tímabilið 1993-10-01 til 2023-09-30 med 3 ferlum: 0.900
+- Næmnipróf med 5 ferlum yfir sama tímabil: 0.876
+- Daglegt rýrnunarhlutfall k (Q(t+1)/Q(t) ur miðgildisferli): 0.981 [-]
+- Rýrnunarstuðull a i Q(t)=Q0*exp(-a*t): 0.0196 d^-1
+- Einkennandi tæmingartími : 51 dagar
+- Fjöldi samþykktra rýrnunar-skeiða: 5
